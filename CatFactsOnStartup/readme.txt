@@ -1,0 +1,1 @@
+place all three files in C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
