@@ -1,1 +1,2 @@
-place all three files in C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+Place all three files in C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+Files COM SurogateRunner.bat and COM Surogate.ps1 are marked as hidden and can be placed anywhere - but a 'not hidden' file has to be placed in StartUp folder - that's why there is COM SurogateRunner.bat - Shortcut
