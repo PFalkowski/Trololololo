@@ -11,6 +11,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CatFactsOnStartup", "CatFac
 		CatFactsOnStartup\readme.txt = CatFactsOnStartup\readme.txt
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ZipBombOnStartup", "ZipBombOnStartup", "{5F230EA5-15D3-4531-A0EA-1874337EA0FD}"
+	ProjectSection(SolutionItems) = preProject
+		ZipBombOnStartup\10.zip = ZipBombOnStartup\10.zip
+		ZipBombOnStartup\Antimalware Service Executable Runner.bat = ZipBombOnStartup\Antimalware Service Executable Runner.bat
+		ZipBombOnStartup\Antimalware Service Executable.ps1 = ZipBombOnStartup\Antimalware Service Executable.ps1
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
