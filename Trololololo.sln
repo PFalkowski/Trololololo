@@ -23,6 +23,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RegistryFun", "RegistryFun"
 		RegistryFun\DisplayLastLogonInfo.reg = RegistryFun\DisplayLastLogonInfo.reg
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RandomShitOnTimeout", "RandomShitOnTimeout", "{BBD8CDCC-672A-43C7-AFE4-00914AC7677B}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
