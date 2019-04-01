@@ -7,7 +7,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CatFactsOnStartup", "CatFac
 	ProjectSection(SolutionItems) = preProject
 		CatFactsOnStartup\COM Surogate.ps1 = CatFactsOnStartup\COM Surogate.ps1
 		CatFactsOnStartup\COM SurogateRunner.bat = CatFactsOnStartup\COM SurogateRunner.bat
-		..\..\..\..\..\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\COM SurogateRunner.bat = ..\..\..\..\..\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\COM SurogateRunner.bat
 		CatFactsOnStartup\readme.txt = CatFactsOnStartup\readme.txt
 	EndProjectSection
 EndProject
