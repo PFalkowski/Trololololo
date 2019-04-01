@@ -34,9 +34,26 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateTroll", "UltimateTr
 		UltimateTroll\Windows Security Health Service Runner.bat = UltimateTroll\Windows Security Health Service Runner.bat
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OccupyRam", "OccupyRam", "{2824DDAD-20E0-465C-BB1E-2F3ACF3379DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OccupyRam", "OccupyRam\OccupyRam\OccupyRam.csproj", "{F11F764B-A83A-450F-877E-887E8F74F1A8}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F11F764B-A83A-450F-877E-887E8F74F1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F11F764B-A83A-450F-877E-887E8F74F1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F11F764B-A83A-450F-877E-887E8F74F1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F11F764B-A83A-450F-877E-887E8F74F1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F11F764B-A83A-450F-877E-887E8F74F1A8} = {2824DDAD-20E0-465C-BB1E-2F3ACF3379DB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BAAA9485-6F49-4B5C-8CE0-CF14AD35DA90}
