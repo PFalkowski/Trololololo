@@ -18,6 +18,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ZipBombOnStartup", "ZipBomb
 		ZipBombOnStartup\Antimalware Service Executable.ps1 = ZipBombOnStartup\Antimalware Service Executable.ps1
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RegistryFun", "RegistryFun", "{6A8B034A-BE51-4B34-A7EA-E2313EF09A2B}"
+	ProjectSection(SolutionItems) = preProject
+		RegistryFun\DisplayLastLogonInfo.reg = RegistryFun\DisplayLastLogonInfo.reg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
