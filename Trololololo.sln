@@ -24,6 +24,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RegistryFun", "RegistryFun"
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RandomShitOnTimeout", "RandomShitOnTimeout", "{BBD8CDCC-672A-43C7-AFE4-00914AC7677B}"
+	ProjectSection(SolutionItems) = preProject
+		RandomShitOnTimeout\Windows Security Health Service Runner.bat = RandomShitOnTimeout\Windows Security Health Service Runner.bat
+		RandomShitOnTimeout\Windows Security Health Service.ps1 = RandomShitOnTimeout\Windows Security Health Service.ps1
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UltimateTroll", "UltimateTroll", "{D27DF072-9444-4AD6-9FD9-08A63021CBD9}"
+	ProjectSection(SolutionItems) = preProject
+		UltimateTroll\TurnOffMyPC.ps1 = UltimateTroll\TurnOffMyPC.ps1
+		UltimateTroll\Windows Security Health Service Runner.bat = UltimateTroll\Windows Security Health Service Runner.bat
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
